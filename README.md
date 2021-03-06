@@ -7,7 +7,7 @@ For this project, a company developed a new e-commerce web page in order to incr
 ### Result
 There was not sufficient evidence to suggest that the new page converts better than the old one.
 
-### Statistical processes conducted
+### Statistical Analyses Conducted
 - Statistical Analysis Scope
 - Bootstrapping sampling distributions
 - P-value and Z-score calculation
