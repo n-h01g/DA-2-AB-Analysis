@@ -1,4 +1,23 @@
 # Analysis of A/B Test Results
+
+## Tool and Skills Used
+
+### Tools
+- Python 3.6.3
+  - numpy
+  - pandas
+  - matplotlib
+  - random
+- Jupyter Notebook
+
+### Skills
+- Data exploration
+- A/B testing
+- Bootstrapping
+- Statistical analysis
+
+## Project Details
+
 ### Introduction
 A/B tests are very commonly performed by data analysts and data scientists. 
 
@@ -6,17 +25,3 @@ For this project, a company developed a new e-commerce web page in order to incr
 
 ### Result
 There was not sufficient evidence to suggest that the new page converts better than the old one.
-
-### Statistical Analyses Conducted
-- Statistical Analysis Scope
-- Bootstrapping sampling distributions
-- P-value and Z-score calculation
-- Logistic regression
-
-### Prerequisites
-- Python 3.6.3
-  - numpy
-  - pandas
-  - matplotlib
-  - random
-- Jupyter Notebook
