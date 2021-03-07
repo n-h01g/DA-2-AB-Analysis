@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center"><a href = "https://www.udacity.com/course/data-analyst-nanodegree--nd002"> Udacity Data Analyst Nanodegree </a></h1>
-<h2 align="center">Project II: Practical Statistics<br><br>Analysis of A/B Test Results</h2>
+<h2 align="center">Project II: Practical Statistics<br></h2>
+<p align="center">Provided with a dataset reflecting data collected from an experiment. Used statistical techniques to answer questions about the data and documented conclusions and recommendations in a report.</p>
+<h2 align="center"><br>Analysis of A/B Test Results<br></h2>
 
 ### Tools and Skills Used
 
